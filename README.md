@@ -73,10 +73,3 @@ Watch the Serial Monitor at low, medium and high water levels and adjust `WARN_T
 
 ## Future improvements
 Waterproof distance sensor, calibrated rain gauge, GSM/SMS alerts, solar power with battery backup, and multiple sensor nodes.
-
-## Team
-- Nura Bin Noor
-- Srijita Das
-- Nazifa Jahan Neloy
-
-Supervisor: Dr. K M Mohibul Kabir, East Delta University
